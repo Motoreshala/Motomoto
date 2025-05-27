@@ -1,0 +1,8 @@
+python-telegram-bot==13.7
+gspread
+oauth2client
+pandas
+openpyxl
+numpy
+schedule
+matplotlib
