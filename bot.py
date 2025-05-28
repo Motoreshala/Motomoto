@@ -1,3 +1,5 @@
+print("✅ Я Бот! Запущен вот из этого файла:", __file__)
+print("🕒 Версия от 28.05.2025 17:15")
 import os
 import logging
 from datetime import datetime
