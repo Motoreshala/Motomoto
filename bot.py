@@ -1,6 +1,7 @@
-print("✅ Я Бот! Запущен вот из этого файла:", __file__)
-print("🕒 Версия от 28.05.2025 17:15")
 import os
+print("✅ Я Бот! Запущен вот из этого файла:", __file__)
+print("🕒 Версия от 28.05.2025 21:99")
+print("🖥️  Текущий PID:", os.getpid())
 import logging
 from datetime import datetime
 from functools import wraps
