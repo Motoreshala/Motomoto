@@ -1,2 +1,28 @@
 service_account.json
 service_account.json
+venv/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+env/
+
+# VS Code settings (не обязательно, но часто полезно)
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Jupyter, если используешь
+.ipynb_checkpoints/
+
+# Файлы с секретами, если есть
+service_account.json
+*.key
+*.pem
+*.env
